@@ -11,3 +11,7 @@ if __name__ == "__main__":
     result = calculate_effective_storage_height(max_height, min_height)
 
     print("Effective Storage Height:", result)
+
+
+# def calculate_effective_storage_height(max_storage_height, min_storage_height):
+#     return (max_storage_height + min_storage_height) / 2
